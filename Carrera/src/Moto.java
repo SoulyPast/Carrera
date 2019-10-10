@@ -5,6 +5,7 @@ public class Moto {
 		// TODO Auto-generated method stub
 		// primera prova la programa feta despres de aixo de aixo tenim  que hacer cosas.
 		//nueva configuracion
+		//fuera de eclipse
 	}
 
 }
